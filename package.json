@@ -33,7 +33,7 @@
   },
   "directories": {
     "example": "examples",
-    "test": "test"
+    "test": "mocha"
   },
   "devDependencies": {
     "chai": "^1.9.2",
